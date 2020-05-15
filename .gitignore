@@ -68,6 +68,11 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
+# Secrets
+.env
+guerrillacademy/.env
+ga_frontend/.env
+
 # dotenv environment variables file
 .env
 .env.test
